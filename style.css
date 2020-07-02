@@ -1,0 +1,47 @@
+.navbar{
+	background-color: white !important;
+}
+
+.navbar-brand{
+	font-size: 26px;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-link{
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+
+#ab{
+	color: #fc0032;
+
+}
+
+#b:hover{
+	color: #fc0032;
+}
+
+#c{
+	color:#00cec5;
+}
+
+#w{
+	color: #fc0032;
+}
+
+.carousel-item{
+	max-height: 500px;
+	height: 100% !important;
+	background-size: cover;
+
+	
+}
+
+.carousel-caption{
+  padding-bottom: 175px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
